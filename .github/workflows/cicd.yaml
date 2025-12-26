@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  AWS_ACCOUNT_ID: 124509311899 
+  AWS_ACCOUNT_ID: 940743193916 
   BACKEND_REPO: backend-service
   FRONTEND_REPO: frontend-service
 
